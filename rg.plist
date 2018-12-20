@@ -45,11 +45,11 @@
                     <key>bundle-identifier</key>
                     <string>cn.ekey.rosegal</string>
                     <key>bundle-version</key>
-                    <string>4.4.0</string>
+                    <string>3.4.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>zf_app</string>
+                    <string>Rosegal</string>
                 </dict>
             </dict>
         </array>
